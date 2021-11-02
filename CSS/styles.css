@@ -1,0 +1,182 @@
+body{
+  margin:0;
+  text-align: center;
+}
+a{
+  color:#A26EA1
+  font-family:'Shadows Into Light Two', cursive;
+  margin:20px 50px;
+  text-decoration: none;
+  }
+  a:hover{
+    color: #F18A9B;
+    }
+
+h1{
+  margin:0 auto 0 auto;
+  font-size:5.62em;
+  line-height: 1.5;
+  font-style: oblique;
+  font-family:'Cookie', cursive;
+  color: #A26EA1;
+}
+h2{
+  margin:0 auto 0 auto;
+  font-size:2.5rem;
+  font-weight: normal;
+  font-style:italic;
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #F18A9B;
+  }
+h3{
+  margin:0 auto 0 auto;
+  font-size:1.75rem;
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #FFD2A5;
+  padding-top: 10px;
+  }
+  h4{
+    margin:0 auto 0 auto;
+    font-size:1rem;
+    font-family: 'Shadows Into Light Two', cursive;
+    color: #A6D0E4;
+    padding-bottom: 10px;
+}
+hr{
+  border-style: none;
+  border-bottom-style:dotted;
+  border-color: #A26EA1;
+  border-width:7px; /* it refers to how thick the line is gonna be */
+  height:0;
+  width: 5%;
+  margin-top:5px;
+}
+p{
+font-family: 'Dosis', sans-serif;
+}
+div {
+background-color:#FFFDF9;
+}
+.bottom-container{
+  margin:0 auto 0 auto;
+  background-color:#FFFFD2;
+  }
+.middle-container{
+  margin:0;
+  background-color:#FFFDF9;
+  margin-top:0;
+  margin-bottom:0;
+  padding-bottom: 25px;
+  padding-top:25px;
+  }
+  .middle-container2{
+    margin:50px auto 50px auto;
+    background-color:#FFFDF9;
+    margin-top:0;
+    margin-bottom:0;
+    padding-bottom: 25px;
+}
+.top-container{
+  background-color:#FFFFD2;
+  margin-top:0;
+  margin-bottom:0;
+}
+.skill-row{
+  width: 50%;
+  margin:10px auto 10px auto;
+  text-align: left;
+  line-height: 1.5;
+  }
+  .icon{
+    margin:auto;
+    width: 15%;
+    }
+  .icon2{
+    width: 18%;
+    position:relative;
+    margin-right: 20px;
+    margin-top: .5px;
+    margin-bottom:20px;
+    float: left;
+    }
+  .icon3{
+    width: 18%;
+    position:relative;
+    margin-top: .5px;
+    margin-bottom:20px;
+    margin-left: 3px;
+    float: right;
+    }
+    .icon4{
+      width: 18%;
+      position:relative;
+      margin-right: 20px;
+      margin-top: .5px;
+      margin-bottom:20px;
+      float: left;
+      }
+  .footer-link{
+    color:#A26EA1
+    font-family:'Shadows Into Light Two', cursive;
+    margin:20px 50px;
+    text-decoration: none;
+    }
+    a:hover{
+      color: #F18A9B;
+      }
+
+  .contact-me{
+    margin:0;
+    background-color:#FFFDF9;
+  }
+.para{
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom:20px;
+  }
+  .para2{
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom:20px;
+  }
+  .para3{
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom:30px;
+    }
+
+  .btn{
+  background:#FFDFD3;
+  background-image: -webkit-linear-gradient(top,color-stop(0.05,#FFDFD3), color-stop (1,#FEC8D8));
+  background-image: -moz-linear-gradient(top, #FFDFD3, #FEC8D8);
+  background-image: -ms-linear-gradient(top, #FFDFD3, #FEC8D8);
+  background-image: -o-linear-gradient(top, #FFDFD3, #FEC8D8);
+  background-image: linear-gradient(to bottom, #FFDFD3, #FEC8D8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Dosis', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding:5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D291BC;
+  background-image: -webkit-linear-gradient(top, #D291BC, #957DAD);
+  background-image: -moz-linear-gradient(top, #D291BC, #957DAD);
+  background-image: -ms-linear-gradient(top, #D291BC, #957DAD);
+  background-image: -o-linear-gradient(top, #D291BC, #957DAD);
+  background-image: linear-gradient(to bottom, #D291BC, #957DAD);
+  text-decoration: none;
+}
+
+.copyright{
+    color:#A26EA1
+    font-family:'Dosis', sans-serif;
+    margin:20px 50px;
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    }
